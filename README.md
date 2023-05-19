@@ -65,5 +65,3 @@ Contributions to enhance and improve this Terraform script are welcome. If you i
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this codebase as per the terms of the license.
 
 Please note that this Terraform script is provided as a starting point and may require additional customization to fit your specific use case.
-
-*This README was generated automatically.*
